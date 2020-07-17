@@ -11,3 +11,8 @@ Currently we use **Jamstack** with node.js, react (next.js) and db (mongdb, post
 Here you can find all our works with
 
 - [vfs.net.ua](https://github.com/webcomet-io/vfs.net.ua)
+
+## Roadmaps
+All what you should know to become a developer
+
+- [Frontend Roadmap](./frontend)
