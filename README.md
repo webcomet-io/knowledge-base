@@ -15,4 +15,4 @@ Here you can find all our works with
 ## Roadmaps
 All what you should know to become a developer
 
-- [Frontend Roadmap](./frontend)
+- [Frontend Roadmap](./frontend/roadmap)
