@@ -10,3 +10,9 @@ Articles go through the basics to advanced topics (using our stack)
 - [How dns works](https://howdns.works/)
 - [What is a domain name](https://www.website.com/beginnerguide/domainnames/8/1/What-is-a-domain-name?.ws)
 - [What is hosting](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
+
+## HTML
+- [Learn the basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Writing semanting HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [Forms and validations](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [Conventions and best practices](https://gist.github.com/ryansechrest/8693303)
